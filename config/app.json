@@ -1,0 +1,10 @@
+{
+    "default": {
+    	"jira_host": "jira.ignitionone.com",
+    	"jira_user": "matthieu.fougere",
+    	"jira_pass": "1W1llL2J4p4n",
+    	"jira_version": "2",
+        "jira_port": 443,
+        "smartsheet_token": "58zyiq999gah5ecy3lkb3iq1u6"
+    }
+}
